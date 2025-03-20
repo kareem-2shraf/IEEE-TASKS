@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-typedef struct // struct to store the data of the every product
+typedef struct // struct to store the data of every product
 {
     char name [100];
     int id;
